@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Hi ! here is some information about me  👨🏽‍💻
 
 # 💼CV : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=whitewww.linkedin.com/in/samuele-benato-a9615a29b/)](https://linkedin.com/in/)
@@ -23,21 +23,4 @@ Argue as if you are right and listen as if you are wrong
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Samuele-Benato&icon=6&color=1)](https://visitcount.itsvg.in)
-=======
-### Hi there 👋
 
-<!--
-**Samuele-Benato/Samuele-Benato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 3ec33655d46f69100971a088938cfc06b68e44f5
